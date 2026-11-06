@@ -1,0 +1,7 @@
+Student Name: Lyka Jessa Mae A. Sumaoang
+
+GitHub Repository URL:
+https://github.com/jisami03/lyka-sumaoang-portfolio
+
+Live Deployment URL:
+https://lyka-sumaoang-portfolio.netlify.app/
